@@ -6,7 +6,7 @@ make sure the url is wuxiaworld.co and not wuxiaworld.com
 You need python 3.9
 -------------------------------------------------------------------------------
 also install following modules in python
--------------------------------------------------------------------------------
+
 EbookLib ,
 beautifulsoup4 ,
 requests ,
