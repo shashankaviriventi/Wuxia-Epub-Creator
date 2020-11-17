@@ -7,10 +7,10 @@ You need python 3.9
 -------------------------------------------------------------------------------
 also install following modules in python
 -------------------------------------------------------------------------------
-EbookLib 
-beautifulsoup4
-requests
-tqdm
+EbookLib ,
+beautifulsoup4 ,
+requests ,
+tqdm ,
 lxml
 -------------------------------------------------------------------------------
 contact: bieleft2020@gmail.com if you have an issue
